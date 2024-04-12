@@ -7,10 +7,10 @@
  * @package           Cobra_Blogs
  *
  * @wordpress-plugin
- * Plugin Name:       WeZ-Cobrança
+ * Plugin Name:       WeZ | Serviço de Cobrança
  * Plugin URI:        https://wez.com.br
- * Description:       Verifica se cliente pagou a fatura e informa na tela de login
- * Version:           1.0.1
+ * Description:       Exibe as faturas abertas do cliente, verifica se o mesmo realizou o pagamento e em seguida exibe os detalhes na tela de login.
+ * Version:           1.0.2
  * Author:            Hélio
  * Author URI:        https://helio.me/
  * Text Domain:       cobra-blogs
