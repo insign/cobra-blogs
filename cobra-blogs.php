@@ -37,7 +37,7 @@ function custom_login_message(string $message): string
   background-color: darkorange;
   font-size: large;
   text-align: center;
-  font-weight: 900;
+  font-weight: 700;
   color: white;
 }
 
